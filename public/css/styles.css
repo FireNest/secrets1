@@ -1,0 +1,28 @@
+body{
+  background: #e8ecef;
+}
+
+
+
+/* class tags  */
+.text-centered
+{
+  text-align: center;
+  width: 800px;
+  margin: 100px auto;
+}
+
+.centered
+{
+  padding-top: 200px;
+  text-align: center;
+}
+
+.secret-text
+{
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+
+}
